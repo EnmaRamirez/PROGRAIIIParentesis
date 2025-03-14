@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\bin\Debug\net8.0\MetodoDinamico.exe
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\bin\Debug\net8.0\MetodoDinamico.deps.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\bin\Debug\net8.0\MetodoDinamico.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\bin\Debug\net8.0\MetodoDinamico.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\bin\Debug\net8.0\MetodoDinamico.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\refint\MetodoDinamico.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\MetodoDinamico.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\DinamicaConParentesis\MetodoDinamico\MetodoDinamico\obj\Debug\net8.0\ref\MetodoDinamico.dll
